@@ -438,6 +438,10 @@ export const languages = {
         "total_win": "ยอดชนะรวม",
         "Unexpected_gift_code_error_message": "เกิดข้อผิดพลาดที่ไม่คาดคิด โปรดลองอีกครั้งในภายหลัง",
         "Close": "ปิด"
+    },
+    "NeZhasRebellion": {
+        "game_icon_name": "Ne Zha's\nกบฏเพลิงเดือด",
+        "game_name": "Ne Zha's กบฏเพลิงเดือด"
     }
 };
 

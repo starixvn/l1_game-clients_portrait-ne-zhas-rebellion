@@ -438,6 +438,10 @@ export const languages = {
         "total_win": "Tổng Thắng",
         "Unexpected_gift_code_error_message": "Đã xảy ra lỗi. Vui lòng thử lại sau.",
         "Close": "Đóng"
+    },
+    "NeZhasRebellion": {
+        "game_icon_name": "Ma Đồng Nổi Loạn",
+        "game_name": "Ma Đồng Nổi Loạn"
     }
 };
 

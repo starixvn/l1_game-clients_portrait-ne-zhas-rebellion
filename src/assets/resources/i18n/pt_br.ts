@@ -438,6 +438,10 @@ export const languages = {
         "total_win": "Ganho Total",
         "Unexpected_gift_code_error_message": "Ocorreu um erro inesperado. Por favor, tente novamente mais tarde.",
         "Close": "Fechar"
+    },
+    "NeZhasRebellion": {
+        "game_icon_name": "A Rebelião de Ne Zha",
+        "game_name": "A Rebelião de Ne Zha"
     }
 };
 

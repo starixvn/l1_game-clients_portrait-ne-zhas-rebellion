@@ -438,6 +438,10 @@ export const languages = {
         "total_win": "总奖金",
         "Unexpected_gift_code_error_message": "发生意外错误。请稍后重试。",
         "Close": "关闭"
+    },
+    "NeZhasRebellion": {
+        "game_icon_name": "哪吒大闹",
+        "game_name": "哪吒大闹"
     }
 };
 

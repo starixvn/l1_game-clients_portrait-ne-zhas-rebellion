@@ -438,6 +438,10 @@ export const languages = {
         "total_win": "Total Menang ",
         "Unexpected_gift_code_error_message": "Terjadi kesalahan tak terduga. Silakan coba lagi nanti.",
         "Close": "Tutup"
+    },
+    "NeZhasRebellion": {
+        "game_icon_name": "Ne Zha's Rebellion",
+        "game_name": "Ne Zha's Rebellion"
     }
 };
 

@@ -438,6 +438,10 @@ export const languages = {
         "total_win": "মোট জয়",
         "Unexpected_gift_code_error_message": " অপ্রত্যাশিত ত্রুটি ঘটেছে। পরে আবার চেষ্টা করুন।",
         "Close": "বন্ধ"
+    },
+    "NeZhasRebellion": {
+        "game_icon_name": "Ne Zha's Rebellion",
+        "game_name": "Ne Zha's Rebellion"
     }
 };
 
