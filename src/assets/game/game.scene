@@ -1178,8 +1178,8 @@
     "_prefab": null,
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": -149.737,
-      "y": 173.875,
+      "x": -153.737,
+      "y": 158.875,
       "z": 0
     },
     "_lrot": {
@@ -1276,7 +1276,7 @@
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": 0,
-      "y": 141.653,
+      "y": 109.65299999999999,
       "z": 0
     },
     "_lrot": {
@@ -1527,7 +1527,10 @@
     "_fillRange": 0,
     "_isTrimmedMode": false,
     "_useGrayscale": false,
-    "_atlas": null,
+    "_atlas": {
+      "__uuid__": "766602cb-5cd9-48af-8b3c-9eb4f7811514",
+      "__expectedType__": "cc.SpriteAtlas"
+    },
     "_id": "7d2/6HXyRBb4OqSFR+UO4D"
   },
   {
@@ -7925,7 +7928,7 @@
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": -1.7053025658242404e-13,
-      "y": 63.89849999999967,
+      "y": 43.89849999999967,
       "z": 0
     },
     "_lrot": {
