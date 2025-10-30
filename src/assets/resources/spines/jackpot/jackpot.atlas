@@ -1,188 +1,433 @@
 
 jackpot.webp
-size: 1727,252
+size: 1650,190
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-Layer 13
+mainha
   rotate: false
-  xy: 2, 152
-  size: 223, 98
-  orig: 225, 100
-  offset: 1, 1
+  xy: 2, 115
+  size: 218, 73
+  orig: 218, 73
+  offset: 0, 0
   index: -1
-New folder/vfxpn00
+vfx/Fireeeee00
   rotate: false
-  xy: 2, 27
-  size: 123, 123
-  orig: 150, 150
-  offset: 14, 9
+  xy: 2, 68
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
   index: -1
-New folder/vfxpn01
+vfx/Fireeeee01
   rotate: false
-  xy: 227, 127
-  size: 123, 123
-  orig: 150, 150
-  offset: 14, 9
+  xy: 222, 143
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
   index: -1
-New folder/vfxpn02
+vfx/Fireeeee02
   rotate: false
-  xy: 352, 127
-  size: 123, 123
-  orig: 150, 150
-  offset: 14, 9
+  xy: 2, 21
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
   index: -1
-New folder/vfxpn03
+vfx/Fireeeee03
   rotate: false
-  xy: 477, 127
-  size: 123, 123
-  orig: 150, 150
-  offset: 14, 9
+  xy: 104, 68
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
   index: -1
-New folder/vfxpn04
+vfx/Fireeeee04
   rotate: false
-  xy: 602, 127
-  size: 123, 123
-  orig: 150, 150
-  offset: 14, 9
+  xy: 324, 143
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
   index: -1
-New folder/vfxpn05
+vfx/Fireeeee05
   rotate: false
-  xy: 727, 127
-  size: 123, 123
-  orig: 150, 150
-  offset: 14, 9
+  xy: 104, 21
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
   index: -1
-New folder/vfxpn06
+vfx/Fireeeee06
   rotate: false
-  xy: 852, 127
-  size: 123, 123
-  orig: 150, 150
-  offset: 14, 9
+  xy: 426, 143
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
   index: -1
-New folder/vfxpn07
+vfx/Fireeeee07
   rotate: false
-  xy: 977, 127
-  size: 123, 123
-  orig: 150, 150
-  offset: 14, 9
+  xy: 528, 143
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
   index: -1
-New folder/vfxpn08
+vfx/Fireeeee08
   rotate: false
-  xy: 1102, 127
-  size: 123, 123
-  orig: 150, 150
-  offset: 14, 9
+  xy: 630, 143
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
   index: -1
-New folder/vfxpn09
+vfx/Fireeeee09
   rotate: false
-  xy: 1227, 127
-  size: 123, 123
-  orig: 150, 150
-  offset: 14, 9
+  xy: 732, 143
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
   index: -1
-New folder/vfxpn10
+vfx/Fireeeee10
   rotate: false
-  xy: 1352, 127
-  size: 123, 123
-  orig: 150, 150
-  offset: 14, 9
+  xy: 834, 143
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
   index: -1
-New folder/vfxpn11
+vfx/Fireeeee11
   rotate: false
-  xy: 1477, 127
-  size: 123, 123
-  orig: 150, 150
-  offset: 14, 9
+  xy: 936, 143
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
   index: -1
-New folder/vfxpn12
+vfx/Fireeeee12
   rotate: false
-  xy: 1602, 127
-  size: 123, 123
-  orig: 150, 150
-  offset: 14, 9
+  xy: 1038, 143
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
   index: -1
-New folder/vfxpn13
+vfx/Fireeeee13
   rotate: false
-  xy: 127, 2
-  size: 123, 123
-  orig: 150, 150
-  offset: 14, 9
+  xy: 1140, 143
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
   index: -1
-New folder/vfxpn14
+vfx/Fireeeee14
   rotate: false
-  xy: 252, 2
-  size: 123, 123
-  orig: 150, 150
-  offset: 14, 9
+  xy: 1242, 143
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
   index: -1
-New folder/vfxpn15
+vfx/Fireeeee15
   rotate: false
-  xy: 377, 2
-  size: 123, 123
-  orig: 150, 150
-  offset: 14, 9
+  xy: 1344, 143
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
   index: -1
-New folder/vfxpn16
+vfx/Fireeeee16
   rotate: false
-  xy: 502, 2
-  size: 123, 123
-  orig: 150, 150
-  offset: 14, 9
+  xy: 1446, 143
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
   index: -1
-New folder/vfxpn17
+vfx/Fireeeee17
   rotate: false
-  xy: 627, 2
-  size: 123, 123
-  orig: 150, 150
-  offset: 14, 9
+  xy: 1548, 143
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
   index: -1
-New folder/vfxpn18
+vfx/Fireeeee18
   rotate: false
-  xy: 752, 2
-  size: 123, 123
-  orig: 150, 150
-  offset: 14, 9
+  xy: 222, 96
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
   index: -1
-New folder/vfxpn19
+vfx/Fireeeee19
   rotate: false
-  xy: 877, 2
-  size: 123, 123
-  orig: 150, 150
-  offset: 14, 9
+  xy: 324, 96
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
   index: -1
-New folder/vfxpn20
+vfx/Fireeeee20
   rotate: false
-  xy: 1002, 2
-  size: 123, 123
-  orig: 150, 150
-  offset: 14, 9
+  xy: 426, 96
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
   index: -1
-New folder/vfxpn21
+vfx/Fireeeee21
   rotate: false
-  xy: 1127, 2
-  size: 123, 123
-  orig: 150, 150
-  offset: 14, 9
+  xy: 528, 96
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
   index: -1
-New folder/vfxpn22
+vfx/Fireeeee22
   rotate: false
-  xy: 1252, 2
-  size: 123, 123
-  orig: 150, 150
-  offset: 14, 9
+  xy: 630, 96
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
   index: -1
-New folder/vfxpn23
+vfx/Fireeeee23
   rotate: false
-  xy: 1377, 2
-  size: 123, 123
-  orig: 150, 150
-  offset: 14, 9
+  xy: 732, 96
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
   index: -1
-New folder/vfxpn24
+vfx/Fireeeee24
   rotate: false
-  xy: 1502, 2
-  size: 123, 123
-  orig: 150, 150
-  offset: 14, 9
+  xy: 834, 96
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+vfx/Fireeeee25
+  rotate: false
+  xy: 936, 96
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+vfx/Fireeeee26
+  rotate: false
+  xy: 1038, 96
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+vfx/Fireeeee27
+  rotate: false
+  xy: 1140, 96
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+vfx/Fireeeee28
+  rotate: false
+  xy: 1242, 96
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+vfx/Fireeeee29
+  rotate: false
+  xy: 1344, 96
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+vfx/Fireeeee30
+  rotate: false
+  xy: 1446, 96
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+vfx/Fireeeee31
+  rotate: false
+  xy: 1548, 96
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+vfx/Fireeeee32
+  rotate: false
+  xy: 206, 49
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+vfx/Fireeeee33
+  rotate: false
+  xy: 308, 49
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+vfx/Fireeeee34
+  rotate: false
+  xy: 410, 49
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+vfx/Fireeeee35
+  rotate: false
+  xy: 512, 49
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+vfx/Fireeeee36
+  rotate: false
+  xy: 614, 49
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+vfx/Fireeeee37
+  rotate: false
+  xy: 716, 49
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+vfx/Fireeeee38
+  rotate: false
+  xy: 818, 49
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+vfx/Fireeeee39
+  rotate: false
+  xy: 920, 49
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+vfx/Fireeeee40
+  rotate: false
+  xy: 1022, 49
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+vfx/Fireeeee41
+  rotate: false
+  xy: 1124, 49
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+vfx/Fireeeee42
+  rotate: false
+  xy: 1226, 49
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+vfx/Fireeeee43
+  rotate: false
+  xy: 1328, 49
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+vfx/Fireeeee44
+  rotate: false
+  xy: 1430, 49
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+vfx/Fireeeee45
+  rotate: false
+  xy: 1532, 49
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+vfx/Fireeeee46
+  rotate: false
+  xy: 206, 2
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+vfx/Fireeeee47
+  rotate: false
+  xy: 308, 2
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+vfx/Fireeeee48
+  rotate: false
+  xy: 410, 2
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+vfx/Fireeeee49
+  rotate: false
+  xy: 512, 2
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+vfx/Fireeeee50
+  rotate: false
+  xy: 614, 2
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+vfx/Fireeeee51
+  rotate: false
+  xy: 716, 2
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+vfx/Fireeeee52
+  rotate: false
+  xy: 818, 2
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+vfx/Fireeeee53
+  rotate: false
+  xy: 920, 2
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+vfx/Fireeeee54
+  rotate: false
+  xy: 1022, 2
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+vfx/Fireeeee55
+  rotate: false
+  xy: 1124, 2
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+vfx/Fireeeee56
+  rotate: false
+  xy: 1226, 2
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+vfx/Fireeeee57
+  rotate: false
+  xy: 1328, 2
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+vfx/Fireeeee58
+  rotate: false
+  xy: 1430, 2
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+vfx/Fireeeee59
+  rotate: false
+  xy: 1532, 2
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
   index: -1

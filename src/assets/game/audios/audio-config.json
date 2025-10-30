@@ -81,5 +81,12 @@
         "type": "music",
         "isMusicGame": true,
         "isLazyLoad": true
+    },
+    "song2": {
+        "bundle": "resources",
+        "path": "music/song",
+        "type": "music",
+        "isMusicGame": true,
+        "isLazyLoad": true
     }
 }
