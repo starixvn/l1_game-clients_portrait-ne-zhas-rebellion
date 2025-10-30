@@ -1,760 +1,712 @@
 
 decor-bg.webp
-size: 1878,1878
+size: 4620,4774
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-builua/spark000
+spark000
   rotate: false
-  xy: 2, 1470
-  size: 732, 406
+  xy: 1, 4341
+  size: 768, 432
   orig: 768, 432
-  offset: 18, 12
+  offset: 0, 0
   index: -1
-builua/spark001
+spark001
   rotate: false
-  xy: 736, 1470
-  size: 732, 406
+  xy: 1, 3907
+  size: 768, 432
   orig: 768, 432
-  offset: 18, 12
+  offset: 0, 0
   index: -1
-builua/spark002
-  rotate: true
-  xy: 1470, 1144
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark003
+spark002
   rotate: false
-  xy: 2, 1062
-  size: 732, 406
+  xy: 771, 4341
+  size: 768, 432
   orig: 768, 432
-  offset: 18, 12
+  offset: 0, 0
   index: -1
-builua/spark004
+spark003
   rotate: false
-  xy: 736, 1062
-  size: 732, 406
+  xy: 1, 3473
+  size: 768, 432
   orig: 768, 432
-  offset: 18, 12
+  offset: 0, 0
   index: -1
-builua/spark005
-  rotate: true
-  xy: 1470, 410
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark006
+spark004
   rotate: false
-  xy: 2, 2
-  size: 732, 406
+  xy: 771, 3907
+  size: 768, 432
   orig: 768, 432
-  offset: 18, 12
+  offset: 0, 0
   index: -1
-builua/spark007
+spark005
   rotate: false
-  xy: 736, 2
-  size: 732, 406
+  xy: 1541, 4341
+  size: 768, 432
   orig: 768, 432
-  offset: 18, 12
+  offset: 0, 0
   index: -1
-builua/spark008
+spark006
   rotate: false
-  xy: 2, 654
-  size: 732, 406
+  xy: 1, 3039
+  size: 768, 432
   orig: 768, 432
-  offset: 18, 12
+  offset: 0, 0
   index: -1
-builua/spark009
+spark007
   rotate: false
-  xy: 736, 654
-  size: 732, 406
+  xy: 771, 3473
+  size: 768, 432
   orig: 768, 432
-  offset: 18, 12
+  offset: 0, 0
+  index: -1
+spark008
+  rotate: false
+  xy: 1541, 3907
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark009
+  rotate: false
+  xy: 2311, 4341
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark010
+  rotate: false
+  xy: 1, 2605
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark011
+  rotate: false
+  xy: 771, 3039
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark012
+  rotate: false
+  xy: 1541, 3473
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark013
+  rotate: false
+  xy: 2311, 3907
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark014
+  rotate: false
+  xy: 3081, 4341
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark015
+  rotate: false
+  xy: 1, 2171
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark016
+  rotate: false
+  xy: 771, 2605
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark017
+  rotate: false
+  xy: 1541, 3039
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark018
+  rotate: false
+  xy: 2311, 3473
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark019
+  rotate: false
+  xy: 3081, 3907
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark020
+  rotate: false
+  xy: 3851, 4341
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark021
+  rotate: false
+  xy: 1, 1737
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark022
+  rotate: false
+  xy: 771, 2171
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark023
+  rotate: false
+  xy: 1541, 2605
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark024
+  rotate: false
+  xy: 2311, 3039
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark025
+  rotate: false
+  xy: 3081, 3473
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark026
+  rotate: false
+  xy: 3851, 3907
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark027
+  rotate: false
+  xy: 1, 1303
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark028
+  rotate: false
+  xy: 771, 1737
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark029
+  rotate: false
+  xy: 1541, 2171
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark030
+  rotate: false
+  xy: 2311, 2605
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark031
+  rotate: false
+  xy: 3081, 3039
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark032
+  rotate: false
+  xy: 3851, 3473
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark033
+  rotate: false
+  xy: 1, 869
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark034
+  rotate: false
+  xy: 771, 1303
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark035
+  rotate: false
+  xy: 1541, 1737
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark036
+  rotate: false
+  xy: 2311, 2171
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark037
+  rotate: false
+  xy: 3081, 2605
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark038
+  rotate: false
+  xy: 3851, 3039
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark039
+  rotate: false
+  xy: 1, 435
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark040
+  rotate: false
+  xy: 771, 869
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark041
+  rotate: false
+  xy: 1541, 1303
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark042
+  rotate: false
+  xy: 2311, 1737
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark043
+  rotate: false
+  xy: 3081, 2171
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark044
+  rotate: false
+  xy: 3851, 2605
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark045
+  rotate: false
+  xy: 1, 1
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark046
+  rotate: false
+  xy: 771, 435
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark047
+  rotate: false
+  xy: 1541, 869
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark048
+  rotate: false
+  xy: 2311, 1303
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark049
+  rotate: false
+  xy: 3081, 1737
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark050
+  rotate: false
+  xy: 3851, 2171
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark051
+  rotate: false
+  xy: 771, 1
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark052
+  rotate: false
+  xy: 1541, 435
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark053
+  rotate: false
+  xy: 2311, 869
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark054
+  rotate: false
+  xy: 3081, 1303
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark055
+  rotate: false
+  xy: 3851, 1737
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark056
+  rotate: false
+  xy: 1541, 1
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark057
+  rotate: false
+  xy: 2311, 435
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark058
+  rotate: false
+  xy: 3081, 869
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark059
+  rotate: false
+  xy: 3851, 1303
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark060
+  rotate: false
+  xy: 2311, 1
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark061
+  rotate: false
+  xy: 3081, 435
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark062
+  rotate: false
+  xy: 3851, 869
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark063
+  rotate: false
+  xy: 3081, 1
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark064
+  rotate: false
+  xy: 3851, 435
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+spark065
+  rotate: false
+  xy: 3851, 1
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
   index: -1
 
 decor-bg2.webp
-size: 1878,1878
+size: 4620,2604
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-builua/spark010
+spark066
   rotate: false
-  xy: 2, 1470
-  size: 732, 406
+  xy: 1, 2171
+  size: 768, 432
   orig: 768, 432
-  offset: 18, 12
+  offset: 0, 0
   index: -1
-builua/spark011
+spark067
   rotate: false
-  xy: 736, 1470
-  size: 732, 406
+  xy: 1, 1737
+  size: 768, 432
   orig: 768, 432
-  offset: 18, 12
+  offset: 0, 0
   index: -1
-builua/spark012
-  rotate: true
-  xy: 1470, 1144
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark013
-  rotate: false
-  xy: 2, 1062
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark014
-  rotate: false
-  xy: 736, 1062
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark015
-  rotate: true
-  xy: 1470, 410
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark016
-  rotate: false
-  xy: 2, 2
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark017
-  rotate: false
-  xy: 736, 2
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark018
-  rotate: false
-  xy: 2, 654
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark019
-  rotate: false
-  xy: 736, 654
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-
-decor-bg3.webp
-size: 1878,1878
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-builua/spark020
-  rotate: false
-  xy: 2, 1470
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark021
-  rotate: false
-  xy: 736, 1470
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark022
-  rotate: true
-  xy: 1470, 1144
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark023
-  rotate: false
-  xy: 2, 1062
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark024
-  rotate: false
-  xy: 736, 1062
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark025
-  rotate: true
-  xy: 1470, 410
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark026
-  rotate: false
-  xy: 2, 2
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark027
-  rotate: false
-  xy: 736, 2
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark028
-  rotate: false
-  xy: 2, 654
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark029
-  rotate: false
-  xy: 736, 654
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-
-decor-bg4.webp
-size: 1878,1878
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-builua/spark030
-  rotate: false
-  xy: 2, 1470
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark031
-  rotate: false
-  xy: 736, 1470
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark032
-  rotate: true
-  xy: 1470, 1144
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark033
-  rotate: false
-  xy: 2, 1062
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark034
-  rotate: false
-  xy: 736, 1062
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark035
-  rotate: true
-  xy: 1470, 410
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark036
-  rotate: false
-  xy: 2, 2
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark037
-  rotate: false
-  xy: 736, 2
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark038
-  rotate: false
-  xy: 2, 654
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark039
+spark068
   rotate: false
-  xy: 736, 654
-  size: 732, 406
+  xy: 771, 2171
+  size: 768, 432
   orig: 768, 432
-  offset: 18, 12
+  offset: 0, 0
   index: -1
-
-decor-bg5.webp
-size: 1878,1878
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-builua/spark040
+spark069
   rotate: false
-  xy: 2, 1470
-  size: 732, 406
+  xy: 1, 1303
+  size: 768, 432
   orig: 768, 432
-  offset: 18, 12
+  offset: 0, 0
   index: -1
-builua/spark041
+spark070
   rotate: false
-  xy: 736, 1470
-  size: 732, 406
+  xy: 771, 1737
+  size: 768, 432
   orig: 768, 432
-  offset: 18, 12
+  offset: 0, 0
   index: -1
-builua/spark042
-  rotate: true
-  xy: 1470, 1144
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark043
-  rotate: false
-  xy: 2, 1062
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark044
-  rotate: false
-  xy: 736, 1062
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark045
-  rotate: true
-  xy: 1470, 410
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark046
-  rotate: false
-  xy: 2, 2
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark047
-  rotate: false
-  xy: 736, 2
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark048
-  rotate: false
-  xy: 2, 654
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark049
-  rotate: false
-  xy: 736, 654
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-
-decor-bg6.webp
-size: 1878,1878
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-builua/spark050
-  rotate: false
-  xy: 2, 1470
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark051
-  rotate: false
-  xy: 736, 1470
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark052
-  rotate: true
-  xy: 1470, 1144
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark053
-  rotate: false
-  xy: 2, 1062
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark054
-  rotate: false
-  xy: 736, 1062
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark055
-  rotate: true
-  xy: 1470, 410
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark056
-  rotate: false
-  xy: 2, 2
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark057
-  rotate: false
-  xy: 736, 2
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark058
-  rotate: false
-  xy: 2, 654
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark059
-  rotate: false
-  xy: 736, 654
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-
-decor-bg7.webp
-size: 1878,1878
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-builua/spark060
-  rotate: false
-  xy: 2, 1470
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark061
-  rotate: false
-  xy: 736, 1470
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark062
-  rotate: true
-  xy: 1470, 1144
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark063
-  rotate: false
-  xy: 2, 1062
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark064
+spark071
   rotate: false
-  xy: 736, 1062
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark065
-  rotate: true
-  xy: 1470, 410
-  size: 732, 406
+  xy: 1541, 2171
+  size: 768, 432
   orig: 768, 432
-  offset: 18, 12
+  offset: 0, 0
   index: -1
-builua/spark066
+spark072
   rotate: false
-  xy: 2, 2
-  size: 732, 406
+  xy: 1, 869
+  size: 768, 432
   orig: 768, 432
-  offset: 18, 12
+  offset: 0, 0
   index: -1
-builua/spark067
+spark073
   rotate: false
-  xy: 736, 2
-  size: 732, 406
+  xy: 771, 1303
+  size: 768, 432
   orig: 768, 432
-  offset: 18, 12
+  offset: 0, 0
   index: -1
-builua/spark068
+spark074
   rotate: false
-  xy: 2, 654
-  size: 732, 406
+  xy: 1541, 1737
+  size: 768, 432
   orig: 768, 432
-  offset: 18, 12
+  offset: 0, 0
   index: -1
-builua/spark069
+spark075
   rotate: false
-  xy: 736, 654
-  size: 732, 406
+  xy: 2311, 2171
+  size: 768, 432
   orig: 768, 432
-  offset: 18, 12
+  offset: 0, 0
   index: -1
-
-decor-bg8.webp
-size: 1878,1878
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-builua/spark070
+spark076
   rotate: false
-  xy: 2, 1470
-  size: 732, 406
+  xy: 1, 435
+  size: 768, 432
   orig: 768, 432
-  offset: 18, 12
+  offset: 0, 0
   index: -1
-builua/spark071
+spark077
   rotate: false
-  xy: 736, 1470
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark072
-  rotate: true
-  xy: 1470, 1144
-  size: 732, 406
+  xy: 771, 869
+  size: 768, 432
   orig: 768, 432
-  offset: 18, 12
+  offset: 0, 0
   index: -1
-builua/spark073
+spark078
   rotate: false
-  xy: 2, 1062
-  size: 732, 406
+  xy: 1541, 1303
+  size: 768, 432
   orig: 768, 432
-  offset: 18, 12
+  offset: 0, 0
   index: -1
-builua/spark074
+spark079
   rotate: false
-  xy: 736, 1062
-  size: 732, 406
+  xy: 2311, 1737
+  size: 768, 432
   orig: 768, 432
-  offset: 18, 12
+  offset: 0, 0
   index: -1
-builua/spark075
-  rotate: true
-  xy: 1470, 410
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark076
+spark080
   rotate: false
-  xy: 2, 2
-  size: 732, 406
+  xy: 3081, 2171
+  size: 768, 432
   orig: 768, 432
-  offset: 18, 12
+  offset: 0, 0
   index: -1
-builua/spark077
+spark081
   rotate: false
-  xy: 736, 2
-  size: 732, 406
+  xy: 1, 1
+  size: 768, 432
   orig: 768, 432
-  offset: 18, 12
+  offset: 0, 0
   index: -1
-builua/spark078
+spark082
   rotate: false
-  xy: 2, 654
-  size: 732, 406
+  xy: 771, 435
+  size: 768, 432
   orig: 768, 432
-  offset: 18, 12
+  offset: 0, 0
   index: -1
-builua/spark079
+spark083
   rotate: false
-  xy: 736, 654
-  size: 732, 406
+  xy: 1541, 869
+  size: 768, 432
   orig: 768, 432
-  offset: 18, 12
+  offset: 0, 0
   index: -1
-
-decor-bg9.webp
-size: 1878,1878
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-builua/spark080
+spark084
   rotate: false
-  xy: 2, 1470
-  size: 732, 406
+  xy: 2311, 1303
+  size: 768, 432
   orig: 768, 432
-  offset: 18, 12
+  offset: 0, 0
   index: -1
-builua/spark081
+spark085
   rotate: false
-  xy: 736, 1470
-  size: 732, 406
+  xy: 3081, 1737
+  size: 768, 432
   orig: 768, 432
-  offset: 18, 12
+  offset: 0, 0
   index: -1
-builua/spark082
-  rotate: true
-  xy: 1470, 1144
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark083
+spark086
   rotate: false
-  xy: 2, 1062
-  size: 732, 406
+  xy: 3851, 2171
+  size: 768, 432
   orig: 768, 432
-  offset: 18, 12
+  offset: 0, 0
   index: -1
-builua/spark084
+spark087
   rotate: false
-  xy: 736, 1062
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark085
-  rotate: true
-  xy: 1470, 410
-  size: 732, 406
+  xy: 771, 1
+  size: 768, 432
   orig: 768, 432
-  offset: 18, 12
+  offset: 0, 0
   index: -1
-builua/spark086
+spark088
   rotate: false
-  xy: 2, 2
-  size: 732, 406
+  xy: 1541, 435
+  size: 768, 432
   orig: 768, 432
-  offset: 18, 12
+  offset: 0, 0
   index: -1
-builua/spark087
+spark089
   rotate: false
-  xy: 736, 2
-  size: 732, 406
+  xy: 2311, 869
+  size: 768, 432
   orig: 768, 432
-  offset: 18, 12
+  offset: 0, 0
   index: -1
-builua/spark088
+spark090
   rotate: false
-  xy: 2, 654
-  size: 732, 406
+  xy: 3081, 1303
+  size: 768, 432
   orig: 768, 432
-  offset: 18, 12
+  offset: 0, 0
   index: -1
-builua/spark089
+spark091
   rotate: false
-  xy: 736, 654
-  size: 732, 406
+  xy: 3851, 1737
+  size: 768, 432
   orig: 768, 432
-  offset: 18, 12
+  offset: 0, 0
   index: -1
-
-decor-bg10.webp
-size: 1878,1634
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-builua/spark090
+spark092
   rotate: false
-  xy: 2, 1226
-  size: 732, 406
+  xy: 1541, 1
+  size: 768, 432
   orig: 768, 432
-  offset: 18, 12
+  offset: 0, 0
   index: -1
-builua/spark091
+spark093
   rotate: false
-  xy: 2, 818
-  size: 732, 406
+  xy: 2311, 435
+  size: 768, 432
   orig: 768, 432
-  offset: 18, 12
+  offset: 0, 0
   index: -1
-builua/spark092
+spark094
   rotate: false
-  xy: 736, 1226
-  size: 732, 406
+  xy: 3081, 869
+  size: 768, 432
   orig: 768, 432
-  offset: 18, 12
+  offset: 0, 0
   index: -1
-builua/spark093
+spark095
   rotate: false
-  xy: 2, 410
-  size: 732, 406
+  xy: 3851, 1303
+  size: 768, 432
   orig: 768, 432
-  offset: 18, 12
+  offset: 0, 0
   index: -1
-builua/spark094
+spark096
   rotate: false
-  xy: 736, 818
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark095
-  rotate: true
-  xy: 1470, 900
-  size: 732, 406
+  xy: 2311, 1
+  size: 768, 432
   orig: 768, 432
-  offset: 18, 12
+  offset: 0, 0
   index: -1
-builua/spark096
+spark097
   rotate: false
-  xy: 2, 2
-  size: 732, 406
+  xy: 3081, 435
+  size: 768, 432
   orig: 768, 432
-  offset: 18, 12
+  offset: 0, 0
   index: -1
-builua/spark097
+spark098
   rotate: false
-  xy: 736, 410
-  size: 732, 406
+  xy: 3851, 869
+  size: 768, 432
   orig: 768, 432
-  offset: 18, 12
+  offset: 0, 0
   index: -1
-builua/spark098
+spark099
   rotate: false
-  xy: 736, 2
-  size: 732, 406
-  orig: 768, 432
-  offset: 18, 12
-  index: -1
-builua/spark099
-  rotate: true
-  xy: 1470, 166
-  size: 732, 406
+  xy: 3081, 1
+  size: 768, 432
   orig: 768, 432
-  offset: 18, 12
+  offset: 0, 0
   index: -1

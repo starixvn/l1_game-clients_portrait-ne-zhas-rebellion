@@ -110,11 +110,11 @@
       "a": 255
     },
     "_skeletonData": {
-      "__uuid__": "8f27093e-ba1f-4446-9049-915d27462820",
+      "__uuid__": "766494dc-ed3e-402a-b315-e3f46fd5e988",
       "__expectedType__": "sp.SkeletonData"
     },
     "defaultSkin": "default",
-    "defaultAnimation": "BG",
+    "defaultAnimation": "show",
     "_premultipliedAlpha": false,
     "_timeScale": 1,
     "_preCacheMode": 0,
@@ -124,7 +124,7 @@
     "_debugMesh": false,
     "_debugBones": false,
     "_debugSlots": false,
-    "_enableBatch": false,
+    "_enableBatch": true,
     "loop": true,
     "_id": ""
   },
